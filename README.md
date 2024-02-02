@@ -1,11 +1,3 @@
-# Iemhacks_InnoWebInnovators
-
-**Team Name**: InnoWeb Innovators
-
-**Team Members Name**:Keshav Kumar Jha and Yuvraj Singh
-
-Team Members GithubUsername:keshavjha05, yuvraj567
-
 **Introduction:**
 Introducing a cutting-edge EdTech platform Studysavy thoughtfully designed to cater to the growing need for personalized learning journeys. Our innovative web-based system offers a sophisticated solution that seamlessly tailors content, engagement, and progression according to the distinct requirements of every learner. This adeptly tackles the issue of accommodating a wide array of learning preferences and approaches.
 
